@@ -31,6 +31,15 @@ export default {
           github: 'https://discord.gg/heavenyol',
           demo: 'https://www.roblox.com/games/78025839506778/Heaven-Resort-BETA-18'
         },
+        {
+          id: 4,
+          name: 'SOLCADE',
+          imageUrl: 'bumdesma',
+          status: 'SOLCADE is a decentralized, provably-fair arcade built on Solana. Outcomes use on-chain logic and verifiable randomness, with transparent smart contracts and open leaderboards. I built the core gameplay and contracts, plus wallet sign-in, rewards, and community features for a fast, trustless experience',
+          tech: 'RUST , TYPESCRIPT',
+          github: 'https://github.com/BUILDPROJECT222/solcadev2',
+          demo: 'https://solcadev2-six.vercel.app/'
+        },
       ]
     };
   }
